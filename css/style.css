@@ -36,7 +36,8 @@ button {
 }
 
 .name-color {
-    color: #50c878
+    color: green;
+    font-weight: 600;
 }
 
 ul.navbar-nav li{
